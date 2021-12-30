@@ -1,0 +1,12 @@
+body {background-color: #f5f5dd;}
+
+div {width: 200px; height: 200px; background-color: black; margin: 20px;
+display: block; margin: 50px auto;}
+
+.square1 {background-color: rgba(0,0,0,1);}
+
+.square2 {background-color: rgba(0,0,0,.7);}
+
+.square3 {background-color: rgba(0,0,0,.4);}
+
+.square4 {background-color: rgba(0,0,0,.2);}
